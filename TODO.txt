@@ -16,7 +16,7 @@
 
 
 Embedded Keywords : 
-device tree, spi communication c code, interrupt handler, memory map, interrupt Service Routine(ISR)
+device tree, spi communication c code, interrupt handler, memory map, interrupt Service Routine(ISR), Datasheet, User programming guid?, User reference guid?, User programming manual?, 
 
 
 
