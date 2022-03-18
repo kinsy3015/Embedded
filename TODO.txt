@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Embedded Keywords : 
+device tree, spi communication c code, interrupt handler, memory map, interrupt Service Routine(ISR)
+
+
+
+FPGS Keywords :
+Writing a SDRAM memory controller in Verilog,
