@@ -70,6 +70,8 @@ git clone https://github.com/rellimmot/Sony-IMX219-Raspberry-Pi-V2-CMOS.git
 git clone https://github.com/pcdangio/ros-driver_mpu9250.git
 git clone https://github.com/jetsonhacks/RTIMULib.git
 git clone https://github.com/RPi-Distro/raspi-config.git
+git clone https://github.com/RTIMULib/RTIMULib-Arduino.git
+
 
 reference site :
 
