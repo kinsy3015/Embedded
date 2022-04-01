@@ -85,7 +85,7 @@ sudo apt-get install libi2c-dev
 sudo apt-get install python-smbus python3-smbus
 sudo apt-get install i2c-tools
 
-===============================================================================================================
+===========================================================================================================
 
 
 conclusion :
@@ -96,3 +96,18 @@ RTIMULibGL => src/JHPWMPCA9685=>  i2c_write_byte_data
 
 ros-driver_mpu9250 => rpi_driver.cpp => i2c_write_byte_data => pigpio => pigpio_if2.c => i2c_write_byte_data(int pi, unsigned handle, unsigned reg, uint32_t val)
 
+
+============================================================================================================
+
+
+sudo i2cdetect -y 1
+
+ls /dev/i2c*
+
+sudo raspi-config 
+
+rosrun driver_mpu9250 driver_mpu9250_rpi
+
+sudo pigpiod
+
+roscore
