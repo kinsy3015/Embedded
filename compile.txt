@@ -1,0 +1,7 @@
+g++ -S hello.cpp
+
+g++ -c hello.cpp
+
+g++ -c helloWorld.cpp hello.cpp
+
+g++ -o main.exe helloWorld.o hello.o
