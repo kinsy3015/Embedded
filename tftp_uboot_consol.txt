@@ -1,0 +1,11 @@
+
+
+
+
+tftp server install => PXELINUX implementation of PXE protocol => firmware debuging & update
+
+
+
+reference site:
+
+https://wiki.st.com/stm32mpu/wiki/How_to_boot_the_kernel_via_TFTP_from_U-Boot
