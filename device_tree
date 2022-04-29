@@ -1,5 +1,5 @@
-
-
+device tree => ex. ) booting os => hardware dependency => but device tree adaption => in makefile => choosing and searching board hardware module
+=> 해당하는 보드에서 인식된 하드웨어들의 device tree를 찾아 os 빌드 => os adaption hardware  => independent kernel, hardware => flatform
 
 reference site : 
 
