@@ -12,3 +12,5 @@ https://wiki.st.com/stm32mpu/wiki/How_to_boot_the_kernel_via_TFTP_from_U-Boot
 https://wiki.st.com/stm32mpu/wiki/U-Boot_overview#Generic_Distro_configuration
 
 https://www.debian.org/releases/wheezy/i386/ch04s05.html.ko#tftp-images
+
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=neos_rtos&logNo=220183673090 // u-boot build reference blog
